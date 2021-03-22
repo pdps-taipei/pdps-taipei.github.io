@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Parsa Hugo | Personal Blog Template</title>
-    <link>https://examplesite.org/categories/</link>
+    <link>https://pdps-taipei.github.io/categories/</link>
     <description>Recent content in Categories on Parsa Hugo | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdps-taipei.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>https://examplesite.org/categories/article/</link>
+      <link>https://pdps-taipei.github.io/categories/article/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/article/</guid>
+      <guid>https://pdps-taipei.github.io/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://examplesite.org/categories/food/</link>
+      <link>https://pdps-taipei.github.io/categories/food/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/food/</guid>
+      <guid>https://pdps-taipei.github.io/categories/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://examplesite.org/categories/nature/</link>
+      <link>https://pdps-taipei.github.io/categories/nature/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/nature/</guid>
+      <guid>https://pdps-taipei.github.io/categories/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://examplesite.org/categories/philosophy/</link>
+      <link>https://pdps-taipei.github.io/categories/philosophy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/philosophy/</guid>
+      <guid>https://pdps-taipei.github.io/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>公告宣導</title>
-      <link>https://examplesite.org/categories/%E5%85%AC%E5%91%8A%E5%AE%A3%E5%B0%8E/</link>
+      <link>https://pdps-taipei.github.io/categories/%E5%85%AC%E5%91%8A%E5%AE%A3%E5%B0%8E/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/%E5%85%AC%E5%91%8A%E5%AE%A3%E5%B0%8E/</guid>
+      <guid>https://pdps-taipei.github.io/categories/%E5%85%AC%E5%91%8A%E5%AE%A3%E5%B0%8E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>景點介紹</title>
-      <link>https://examplesite.org/categories/%E6%99%AF%E9%BB%9E%E4%BB%8B%E7%B4%B9/</link>
+      <link>https://pdps-taipei.github.io/categories/%E6%99%AF%E9%BB%9E%E4%BB%8B%E7%B4%B9/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/%E6%99%AF%E9%BB%9E%E4%BB%8B%E7%B4%B9/</guid>
+      <guid>https://pdps-taipei.github.io/categories/%E6%99%AF%E9%BB%9E%E4%BB%8B%E7%B4%B9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>活動消息</title>
-      <link>https://examplesite.org/categories/%E6%B4%BB%E5%8B%95%E6%B6%88%E6%81%AF/</link>
+      <link>https://pdps-taipei.github.io/categories/%E6%B4%BB%E5%8B%95%E6%B6%88%E6%81%AF/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/categories/%E6%B4%BB%E5%8B%95%E6%B6%88%E6%81%AF/</guid>
+      <guid>https://pdps-taipei.github.io/categories/%E6%B4%BB%E5%8B%95%E6%B6%88%E6%81%AF/</guid>
       <description></description>
     </item>
     

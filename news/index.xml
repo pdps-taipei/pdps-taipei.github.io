@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Parsa Hugo | Personal Blog Template</title>
-    <link>https://examplesite.org/news/</link>
+    <link>https://pdps-taipei.github.io/news/</link>
     <description>Recent content in News on Parsa Hugo | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.org/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdps-taipei.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>110學年度第1學期高級中等以下教育階段非學校型態實驗教育計畫</title>
-      <link>https://examplesite.org/news/110%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E5%AD%B8%E6%9C%9F%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E4%BB%A5%E4%B8%8B%E6%95%99%E8%82%B2%E9%9A%8E%E6%AE%B5%E9%9D%9E%E5%AD%B8%E6%A0%A1%E5%9E%8B%E6%85%8B%E5%AF%A6%E9%A9%97%E6%95%99%E8%82%B2%E8%A8%88%E7%95%AB/</link>
+      <link>https://pdps-taipei.github.io/news/110%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E5%AD%B8%E6%9C%9F%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E4%BB%A5%E4%B8%8B%E6%95%99%E8%82%B2%E9%9A%8E%E6%AE%B5%E9%9D%9E%E5%AD%B8%E6%A0%A1%E5%9E%8B%E6%85%8B%E5%AF%A6%E9%A9%97%E6%95%99%E8%82%B2%E8%A8%88%E7%95%AB/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/news/110%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E5%AD%B8%E6%9C%9F%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E4%BB%A5%E4%B8%8B%E6%95%99%E8%82%B2%E9%9A%8E%E6%AE%B5%E9%9D%9E%E5%AD%B8%E6%A0%A1%E5%9E%8B%E6%85%8B%E5%AF%A6%E9%A9%97%E6%95%99%E8%82%B2%E8%A8%88%E7%95%AB/</guid>
+      <guid>https://pdps-taipei.github.io/news/110%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E5%AD%B8%E6%9C%9F%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E4%BB%A5%E4%B8%8B%E6%95%99%E8%82%B2%E9%9A%8E%E6%AE%B5%E9%9D%9E%E5%AD%B8%E6%A0%A1%E5%9E%8B%E6%85%8B%E5%AF%A6%E9%A9%97%E6%95%99%E8%82%B2%E8%A8%88%E7%95%AB/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>墾丁南十字、春夏夜星空與生態之旅計畫</title>
-      <link>https://examplesite.org/news/%E5%A2%BE%E4%B8%81%E5%8D%97%E5%8D%81%E5%AD%97%E6%98%A5%E5%A4%8F%E5%A4%9C%E6%98%9F%E7%A9%BA%E8%88%87%E7%94%9F%E6%85%8B%E4%B9%8B%E6%97%85%E8%A8%88%E7%95%AB/</link>
+      <link>https://pdps-taipei.github.io/news/%E5%A2%BE%E4%B8%81%E5%8D%97%E5%8D%81%E5%AD%97%E6%98%A5%E5%A4%8F%E5%A4%9C%E6%98%9F%E7%A9%BA%E8%88%87%E7%94%9F%E6%85%8B%E4%B9%8B%E6%97%85%E8%A8%88%E7%95%AB/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/news/%E5%A2%BE%E4%B8%81%E5%8D%97%E5%8D%81%E5%AD%97%E6%98%A5%E5%A4%8F%E5%A4%9C%E6%98%9F%E7%A9%BA%E8%88%87%E7%94%9F%E6%85%8B%E4%B9%8B%E6%97%85%E8%A8%88%E7%95%AB/</guid>
+      <guid>https://pdps-taipei.github.io/news/%E5%A2%BE%E4%B8%81%E5%8D%97%E5%8D%81%E5%AD%97%E6%98%A5%E5%A4%8F%E5%A4%9C%E6%98%9F%E7%A9%BA%E8%88%87%E7%94%9F%E6%85%8B%E4%B9%8B%E6%97%85%E8%A8%88%E7%95%AB/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>臺北市109學年度國民小學本土語文親子及學生話劇比賽實施計畫</title>
-      <link>https://examplesite.org/news/%E8%87%BA%E5%8C%97%E5%B8%82109%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8%E6%9C%AC%E5%9C%9F%E8%AA%9E%E6%96%87%E8%A6%AA%E5%AD%90%E5%8F%8A%E5%AD%B8%E7%94%9F%E8%A9%B1%E5%8A%87%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB/</link>
+      <link>https://pdps-taipei.github.io/news/%E8%87%BA%E5%8C%97%E5%B8%82109%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8%E6%9C%AC%E5%9C%9F%E8%AA%9E%E6%96%87%E8%A6%AA%E5%AD%90%E5%8F%8A%E5%AD%B8%E7%94%9F%E8%A9%B1%E5%8A%87%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/news/%E8%87%BA%E5%8C%97%E5%B8%82109%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8%E6%9C%AC%E5%9C%9F%E8%AA%9E%E6%96%87%E8%A6%AA%E5%AD%90%E5%8F%8A%E5%AD%B8%E7%94%9F%E8%A9%B1%E5%8A%87%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB/</guid>
+      <guid>https://pdps-taipei.github.io/news/%E8%87%BA%E5%8C%97%E5%B8%82109%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8%E6%9C%AC%E5%9C%9F%E8%AA%9E%E6%96%87%E8%A6%AA%E5%AD%90%E5%8F%8A%E5%AD%B8%E7%94%9F%E8%A9%B1%E5%8A%87%E6%AF%94%E8%B3%BD%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

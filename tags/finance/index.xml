@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on Parsa Hugo | Personal Blog Template</title>
-    <link>https://examplesite.org/tags/finance/</link>
+    <link>https://pdps-taipei.github.io/tags/finance/</link>
     <description>Recent content in Finance on Parsa Hugo | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.org/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdps-taipei.github.io/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>彩虹操場</title>
-      <link>https://examplesite.org/blog/organize-your-life.6/</link>
+      <link>https://pdps-taipei.github.io/blog/organize-your-life.6/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/organize-your-life.6/</guid>
+      <guid>https://pdps-taipei.github.io/blog/organize-your-life.6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
